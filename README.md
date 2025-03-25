@@ -1,4 +1,4 @@
-  ![MasterHead]([https://media1.tenor.com/m/_DOBjnGspYAAAAAd/code-coding.gif](https://s6.ezgif.com/tmp/ezgif-61ec0f5fe628cc.gif))
+  ![MasterHead](https://s6.ezgif.com/tmp/ezgif-61ec0f5fe628cc.gif)
 <h1 align="center">Hi 👋, I'm Sude Naz Karayıldırım!</h1>
 <h3 align="center">I am a student of 42 Schools and Ankara University. I am always in love with coding.</h3>
 
