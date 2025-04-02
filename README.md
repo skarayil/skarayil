@@ -20,5 +20,5 @@ Hi 👋, I'm Sude Naz Karayıldırım!<br><br>I am a student of 42 Schools and A
 ---
 [![](https://visitcount.itsvg.in/api?id=skarayil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg)
+![mishmanners snake gif](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
