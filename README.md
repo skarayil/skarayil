@@ -12,10 +12,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=skarayil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=skarayil&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skarayil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 📈 Visitor Count:
-![Visitor Count](https://visitcount.itsvg.in/api?id=skarayil&icon=0&color=0)
+# 📈 Visitor Count:
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=visits&query=$.visitors&url=https%3A%2F%2Fbadges.to%2Fapi%2Fvisit%2Fskarayil)
 ---
-[![](https://visitcount.itsvg.in/api?id=skarayil&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ![mishmanners snake gif](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
