@@ -17,9 +17,13 @@ Hi 👋, I'm Sude Naz Karayıldırım!<br><br>I am a student of 42 Schools and A
 ---
 [![](https://visitcount.itsvg.in/api?id=skarayil&icon=0&color=0)](https://visitcount.itsvg.in)
 
+⁠ html
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Code+is+my+blockchain+graffiti;Beats+meet+bits+%F0%9F%8E%A7;Street+flavor+in+every+line;Pixelated+but+precise" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Code+is+my+blockchain+graffiti;Beats+meet+bits+%F0%9F%8E%A7;Street+flavor+in+every+line;Pixelated+but+precise" style="color: green;" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Code+is+my+blockchain+graffiti;Beats+meet+bits+%F0%9F%8E%A7;Street+flavor+in+every+line;Pixelated+but+precise" alt="Typing SVG" />
+  </a>
 </p>
+
 
 ![mishmanners snake gif](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
