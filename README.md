@@ -2,11 +2,11 @@
 
 
 <h1 align="center">💫 About Me</h1>
-# 💫 About Me:
-<h1 align="center">💫 Hi 👋, I'm Sude Naz Karayıldırım!<br><br>I am a student of 42 Schools and Ankara University. I am always in love with coding.</h1>
-## Hi 👋, I'm Sude Naz Karayıldırım!<br><br>I am a student of 42 Schools and Ankara University. I am always in love with coding.
 
-<h1 align="center">🌐 Socials</h1>
+<h1 align="center">💫 Hi 👋, I'm Sude Naz Karayıldırım! <br> I am a student of 42 Schools and Ankara University. I am always in love with coding.</h1>
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n4zerati) 
 
