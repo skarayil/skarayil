@@ -3,7 +3,7 @@
 
 <h1 >💫 About Me</h1>
 
-<h1 >💫 Hi 👋, I'm Sude Naz Karayıldırım! <br> I am a student of 42 Schools and Ankara University. I am always in love with coding.</h1>
+<h2 >💫 Hi 👋, I'm Sude Naz Karayıldırım! <br> I am a student of 42 Schools and Ankara University. I am always in love with coding.</h2>
 
 
 
