@@ -4,6 +4,15 @@
 Hi 👋, I'm Sude Naz Karayıldırım!<br><br>I am a student of 42 Schools and Ankara University. I am always in love with coding.
 
 
+<h1 align="center">🚀 Emrecan.exe Initiated</h1>
+<h3 align="center">Sokaktan cyber'a, beat'ten byte'a 👾</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Code+is+my+blockchain+graffiti;Beats+meet+bits+%F0%9F%8E%A7;Street+flavor+in+every+line;Pixelated+but+precise" alt="Typing SVG" />
+</p>
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n4zerati) 
 
