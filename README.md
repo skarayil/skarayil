@@ -36,16 +36,8 @@
     <a href="https://dart.dev/">
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"  >
   </a>
-    <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  >
-  </a>
-    <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"  >
     <a href="https://www.adobe.com/tr/products/photoshop/landpa.html?skwcid=AL!3085!3!602469521160!e!!g!!adobe%20photoshop&mv=search&mv2=paidsearch&sdid=2XBSBWBF&ef_id=Cj0KCQjwqcO_BhDaARIsACz62vNbRo-KlpXCo9Q6EoCBmUQwpIgwDW_O-CH9WEdFEm1YieyYjr6kf40aAsPoEALw_wcB:G:s&s_kwcid=AL!3085!3!602469521160!e!!g!!adobe%20photoshop!1448694214!55308397806&gad_source=1&gclid=Cj0KCQjwqcO_BhDaARIsACz62vNbRo-KlpXCo9Q6EoCBmUQwpIgwDW_O-CH9WEdFEm1YieyYjr6kf40aAsPoEALw_wcB">
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"  >
-  </a>
-      <a href="https://www.adobe.com">
-    <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"  >
   </a>
       <a href="https://www.adobe.com/tr/products/aftereffects/campaign/pricing.html?skwcid=AL!3085!3!602522202889!e!!g!!adobe%20after%20effects&mv=search&mv2=paidsearch&sdid=G85SYKHF&ef_id=CjwKCAjwzMi_BhACEiwAX4YZUOt-1GObUjZSw4FqvrKfYmtJ6knuPKOIcEYKrWyO9nuAgeTrC2zdqxoCztwQAvD_BwE:G:s&s_kwcid=AL!3085!3!602522202889!e!!g!!adobe%20after%20effects!1448694139!55308609486&gad_source=1&gclid=CjwKCAjwzMi_BhACEiwAX4YZUOt-1GObUjZSw4FqvrKfYmtJ6knuPKOIcEYKrWyO9nuAgeTrC2zdqxoCztwQAvD_BwE">
     <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"  >
@@ -55,10 +47,6 @@
   </a>
     <a href="https://www.adobe.com/tr/products/illustrator/campaign/pricing.html">
     <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"  >
-  </a>
-       </a>
-    <a href="https://www.adobe.com/tr/products/premiere/campaign/pricing.html">
-    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"  >
   </a>
      </a>
     <a href="https://flutter.dev/">
