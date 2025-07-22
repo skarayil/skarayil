@@ -5,16 +5,6 @@
 
 <h2 align="center">Hi 👋, I'm Sude Naz Karayıldırım! <br> I am a student of 42 Schools and Ankara University. I am always in love with coding.</h2>
 
-<h1 align="center">🌐Socials</h1>
-<p align="center">
-  <a href="https://instagram.com/n4zerati">
-    <img src="https://img.shields.io/badge/Instagram-white?logo=Instagram&logoColor=black" height="35">
-  </a>
-  <a href="https://www.linkedin.com/in/sude-naz-karayıldırım-449aaa35a/?originalSubdomain=tr">
-    <img src="https://img.shields.io/badge/LinkedIn-white?logo=LinkedIn&logoColor=black" height="35">
-  </a>
-</p>
-
 <h1 align="center">💻 Tech Stack</h1><br>
 <p align="center">
   <a href="https://www.cprogramming.com">
