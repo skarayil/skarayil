@@ -10,8 +10,8 @@
   <a href="https://instagram.com/n4zerati">
     <img src="https://img.shields.io/badge/Instagram-white?logo=Instagram&logoColor=black" height="35">
   </a>
-  <a href="https://www.linkedin.com/in/sude-naz-karayıldırım-449aaa35a/?originalSubdomain=tr">
-    <img src="https://img.shields.io/badge/LinkedIn-white?logo=LinkedIn&logoColor=black" height="35">
+  <a href="https://www.linkedin.com/in/yourlinkedinprofile">
+    <img src="https://www.linkedin.com/in/sude-naz-karayıldırım-449aaa35a/?originalSubdomain=tr">
   </a>
 </p>
 
