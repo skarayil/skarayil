@@ -8,10 +8,10 @@
 <h1 align="center">🌐Socials</h1>
 <p align="center">
   <a href="https://instagram.com/n4zerati">
-    <img src="https://img.shields.io/badge/Instagram-white?logo=Instagram&logoColor=white" height="35">
+    <img src="https://img.shields.io/badge/Instagram-white?logo=Instagram&logoColor=black" height="35">
   </a>
   <a href="https://www.linkedin.com/in/sude-naz-karayıldırım-449aaa35a/?originalSubdomain=tr">
-    <img src="https://img.shields.io/badge/LinkedIn-white?logo=LinkedIn&logoColor=white" height="35">
+    <img src="https://img.shields.io/badge/LinkedIn-white?logo=LinkedIn&logoColor=black" height="35">
   </a>
 </p>
 
