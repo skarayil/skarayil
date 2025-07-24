@@ -12,9 +12,7 @@
 
 ---
 
-[![42 Profile](https://img.shields.io/badge/42%20Profile-sukaraya-black?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/sukaraya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sudenazkarayildirim.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudenaz@example.com)
+[![42 Profile](https://img.shields.io/badge/42%20Profile-skarayil-black?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/skarayil)
 
 </div>
 
