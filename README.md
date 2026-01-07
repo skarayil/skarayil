@@ -63,13 +63,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=skarayil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarayil&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=skarayil&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
